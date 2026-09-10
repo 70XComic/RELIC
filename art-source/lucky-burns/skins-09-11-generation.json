@@ -1,0 +1,83 @@
+{
+  "tool": "built-in image_gen",
+  "requestedSize": [
+    2048,
+    2048
+  ],
+  "outputSize": [
+    1254,
+    1254
+  ],
+  "layout": "3 columns \u00d7 2 rows; reading left-to-right, top then bottom",
+  "prompts": [
+    {
+      "prompt": "Use case: identity-preserve.\nAsset type: production RPG full-body attack animation sprite sheet.\nUse the supplied image as the exact character identity, costume, body-proportion, color, and hair reference. The subject is Lucky Burns, an adult fictional female RPG fighter.\nCreate ONE square 2048x2048 PNG sheet with exactly SIX separate full-body poses on a genuinely transparent alpha background. Layout is exactly THREE equal columns and TWO equal rows, reading left-to-right across top row then bottom row. No visible grid, frame borders, labels, text, numbers, backdrop, floor, cast shadows or watermarks. Each of the six poses must remain inside its own cell, generous transparent margin. Consistent local anchor within each cell: head near 12% cell height and feet near 91%, center of hips near horizontal 50%. Entire body and all limbs/hair/props visible in every cell; never crop, overlap adjacent cells, add extra figures or change the scale.\nSix coherent sequential animation frames for ONE attack facing slightly toward screen right: (1) ready stance derived from reference, (2) anticipation with free fist drawn back and subtle weight shift, (3) decisive free-arm punch to screen right, (4) follow-through with torso twist and secondary hair movement, (5) recovery retracting fist, (6) return closely to frame 1. Keep feet near anchor and body size consistent; only natural limb articulation, weight shift and hair secondary motion.\nPreserve the exact adult face, blue eye color, very long voluminous wavy golden-blonde hair, very muscular powerful build and body proportions from reference, including large strong thighs and arms. Preserve all exact outfit coverage, shape, colors, crown motifs and visible accessories; do not redesign or invent costume, props or weapons. Detailed, richly shaded crisp pixel-art RPG finish closely following the reference rendering, attractive readable sprite silhouettes. Combat animation, neutral game framing.\nSkin-specific invariants: oversized white off-shoulder sweatshirt with red crown on chest and black shoulder strap, black athletic shorts with white piping/drawstring and small red crown, fluffy white slide slippers with red crowns, red hair scrunchie/accessory. Her raised hand at screen right holds the reference WHITE mug with RED crown; preserve that mug in the SAME hand upright and stable in ALL six poses. The other arm, initially near shorts pocket, leaves the pocket and performs the punch; do not punch with the mug.",
+      "skin": "09"
+    },
+    {
+      "prompt": "Use case: identity-preserve.\nAsset type: production RPG full-body attack animation sprite sheet.\nUse the supplied image as the exact character identity, costume, body-proportion, color, and hair reference. The subject is Lucky Burns, an adult fictional female RPG fighter.\nCreate ONE square 2048x2048 PNG sheet with exactly SIX separate full-body poses on a genuinely transparent alpha background. Layout is exactly THREE equal columns and TWO equal rows, reading left-to-right across top row then bottom row. No visible grid, frame borders, labels, text, numbers, backdrop, floor, cast shadows or watermarks. Each of the six poses must remain inside its own cell, generous transparent margin. Consistent local anchor within each cell: head near 12% cell height and feet near 91%, center of hips near horizontal 50%. Entire body and all limbs/hair/props visible in every cell; never crop, overlap adjacent cells, add extra figures or change the scale.\nSix coherent sequential animation frames for ONE attack facing slightly toward screen right: (1) ready stance derived from reference, (2) anticipation with free fist drawn back and subtle weight shift, (3) decisive free-arm punch to screen right, (4) follow-through with torso twist and secondary hair movement, (5) recovery retracting fist, (6) return closely to frame 1. Keep feet near anchor and body size consistent; only natural limb articulation, weight shift and hair secondary motion.\nPreserve the exact adult face, blue eye color, very long voluminous wavy golden-blonde hair, very muscular powerful build and body proportions from reference, including large strong thighs and arms. Preserve all exact outfit coverage, shape, colors, crown motifs and visible accessories; do not redesign or invent costume, props or weapons. Detailed, richly shaded crisp pixel-art RPG finish closely following the reference rendering, attractive readable sprite silhouettes. Combat animation, neutral game framing.\nSkin-specific invariants: same RED two-piece swim outfit with white crown motif on triangle top, red tie-side bottoms with small gold details, red thong sandals with small gold crowns, gold wrist bracelets and ankle bands, red hibiscus flower in blonde hair. No prop. Begin with reference relaxed arms-up silhouette, then animate a controlled strong unarmed punch and return to relaxed stance; preserve exactly the existing outfit and coverage.",
+      "skin": "10"
+    },
+    {
+      "prompt": "Use case: identity-preserve.\nAsset type: production RPG full-body attack animation sprite sheet.\nUse the supplied image as the exact character identity, costume, body-proportion, color, and hair reference. The subject is Lucky Burns, an adult fictional female RPG fighter.\nCreate ONE square 2048x2048 PNG sheet with exactly SIX separate full-body poses on a genuinely transparent alpha background. Layout is exactly THREE equal columns and TWO equal rows, reading left-to-right across top row then bottom row. No visible grid, frame borders, labels, text, numbers, backdrop, floor, cast shadows or watermarks. Each of the six poses must remain inside its own cell, generous transparent margin. Consistent local anchor within each cell: head near 12% cell height and feet near 91%, center of hips near horizontal 50%. Entire body and all limbs/hair/props visible in every cell; never crop, overlap adjacent cells, add extra figures or change the scale.\nSix coherent sequential animation frames for ONE attack facing slightly toward screen right: (1) ready stance derived from reference, (2) anticipation with free fist drawn back and subtle weight shift, (3) decisive free-arm punch to screen right, (4) follow-through with torso twist and secondary hair movement, (5) recovery retracting fist, (6) return closely to frame 1. Keep feet near anchor and body size consistent; only natural limb articulation, weight shift and hair secondary motion.\nPreserve the exact adult face, blue eye color, very long voluminous wavy golden-blonde hair, very muscular powerful build and body proportions from reference, including large strong thighs and arms. Preserve all exact outfit coverage, shape, colors, crown motifs and visible accessories; do not redesign or invent costume, props or weapons. Detailed, richly shaded crisp pixel-art RPG finish closely following the reference rendering, attractive readable sprite silhouettes. Combat animation, neutral game framing.\nSkin-specific invariants: oversized WHITE button-down collared shirt with rolled sleeves and exact reference drape/button closure, same visible dark brief beneath, bare feet, long golden-blonde hair, no added jewelry or outfit layers. Her raised hand at screen right holds the reference BLACK mug with RED crown; preserve that mug in the SAME hand upright and stable in ALL six poses. The other arm starts at hip and performs the punch. Do not punch with mug; do not alter the shirt coverage or adult body proportions.",
+      "skin": "11"
+    }
+  ],
+  "selected": [
+    {
+      "skin": "09",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-c6f5d6ba-cb28-42ca-9b1c-6daa381daabf.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-09-sheet.png",
+      "alpha": "FAIL: RGB output with baked checkerboard; no alpha channel. Selected first pass preserved unmodified for review.",
+      "concerns": [
+        "Actual generator output below requested 2048 size.",
+        "Frame 4 fist extends slightly beyond equal first-column boundary; adaptive isolation may be needed.",
+        "Richly shaded anime rendering is close to reference but is not coarse pixel art."
+      ],
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "correctionSource": "/workspace/scratch/32909283a42e/generated_images/exec-92567261-14d1-498e-82b7-e97eeecbe241.png",
+      "correctionStatus": "Returned RGB with baked checkerboard; failed transparency."
+    },
+    {
+      "skin": "10",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-927871ee-7065-4f3d-9cfb-315748269511.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-10-sheet.png",
+      "alpha": "FAIL: RGB output with baked checkerboard; no alpha channel. Selected first pass preserved unmodified for review.",
+      "concerns": [
+        "Actual generator output below requested 2048 size.",
+        "Frame 4 fist extends slightly beyond equal first-column boundary; adaptive isolation may be needed.",
+        "Richly shaded anime rendering is close to reference but is not coarse pixel art."
+      ],
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "correctionSource": "/workspace/scratch/32909283a42e/generated_images/exec-229a9014-d329-4e37-9a16-c5be9d723e5f.png",
+      "correctionStatus": "Returned RGB with baked checkerboard; failed transparency."
+    },
+    {
+      "skin": "11",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-a3ad14ba-a43b-4b0c-99b6-2955e13dafaf.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-11-sheet.png",
+      "alpha": "FAIL: RGB output with baked checkerboard; no alpha channel. Selected first pass preserved unmodified for review.",
+      "concerns": [
+        "Actual generator output below requested 2048 size.",
+        "Frame 4 fist extends slightly beyond equal first-column boundary; adaptive isolation may be needed.",
+        "Richly shaded anime rendering is close to reference but is not coarse pixel art."
+      ],
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "correctionSource": null,
+      "correctionStatus": "No image returned from the correction call."
+    }
+  ],
+  "status": "First-pass sheets preserved; requested true transparency and 2048 size not fulfilled by built-in output. No slicing, recoloring, upscaling, alpha modification or CLI fallback performed."
+}

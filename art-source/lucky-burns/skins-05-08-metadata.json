@@ -1,0 +1,50 @@
+[
+  {
+    "skin": "05",
+    "path": "/workspace/scratch/32909283a42e/lucky-motion/skin-05-sheet.png",
+    "source": "/workspace/scratch/32909283a42e/generated_images/exec-0a4707e3-696b-47db-82b8-1e6d450916f3.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "alpha": false,
+    "issue": "Baked checkerboard background. 3 columns x 2 rows, but some attack/cape edges cross equal-column borders; root must account for this before slicing."
+  },
+  {
+    "skin": "06",
+    "path": "/workspace/scratch/32909283a42e/lucky-motion/skin-06-sheet.png",
+    "source": "/workspace/scratch/32909283a42e/generated_images/exec-8818f982-44c0-4ab2-9ede-ee0d921edaaf.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "alpha": false,
+    "issue": "Baked checkerboard background. 3 columns x 2 rows, but some attack/cape edges cross equal-column borders; root must account for this before slicing."
+  },
+  {
+    "skin": "07",
+    "path": "/workspace/scratch/32909283a42e/lucky-motion/skin-07-sheet.png",
+    "source": "/workspace/scratch/32909283a42e/generated_images/exec-f99191ea-0d9a-407b-9ae3-1cf657cd389e.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "alpha": false,
+    "issue": "Baked checkerboard background. 3 columns x 2 rows, but some attack/cape edges cross equal-column borders; root must account for this before slicing."
+  },
+  {
+    "skin": "08",
+    "path": "/workspace/scratch/32909283a42e/lucky-motion/skin-08-sheet.png",
+    "source": "/workspace/scratch/32909283a42e/generated_images/exec-e0d38019-29ab-445d-a09a-23be54106908.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "alpha": false,
+    "issue": "Baked checkerboard background. 3 columns x 2 rows, but some attack/cape edges cross equal-column borders; root must account for this before slicing."
+  }
+]

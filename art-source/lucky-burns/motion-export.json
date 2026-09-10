@@ -1,0 +1,1067 @@
+{
+  "canvas": [
+    640,
+    640
+  ],
+  "encoding": "lossless WebP",
+  "resized": false,
+  "character_rgb_preserved": true,
+  "skins": [
+    {
+      "skin": 1,
+      "source_sha256": "df36fd6ce24fd82452dbfe3f0b29f37aa73e8c4921378aea292a4c107f9bb57e",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            55,
+            22,
+            391,
+            609
+          ],
+          "canvas_position": [
+            165,
+            45
+          ],
+          "opaque_pixels": 108115,
+          "sha256": "2d2093d7a6424fd43cda48792cabc1271fae615dcb3df1a1837e2768d3586ccb"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            444,
+            38,
+            814,
+            609
+          ],
+          "canvas_position": [
+            136,
+            61
+          ],
+          "opaque_pixels": 101811,
+          "sha256": "1881f9041ff211c8da2258360bb7f80e0d043b1fc1256b1d6590785fbbadfb4c"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            840,
+            60,
+            1238,
+            609
+          ],
+          "canvas_position": [
+            113,
+            83
+          ],
+          "opaque_pixels": 101299,
+          "sha256": "18be1ca333d573a5e816c2ee811bf6d52c1bbe723e439de69b389f490e53b0f2"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            40,
+            658,
+            461,
+            1226
+          ],
+          "canvas_position": [
+            134,
+            64
+          ],
+          "opaque_pixels": 111679,
+          "sha256": "f125435d75ddabe1296334ed60501fb5940ef0cdac061b8cf7894fea2b282531"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            461,
+            660,
+            823,
+            1226
+          ],
+          "canvas_position": [
+            141,
+            66
+          ],
+          "opaque_pixels": 100567,
+          "sha256": "e24db3d99f3613b34fb25f976ff192454598484040ef69c8ed38911dcc8e2b22"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            882,
+            648,
+            1213,
+            1227
+          ],
+          "canvas_position": [
+            162,
+            53
+          ],
+          "opaque_pixels": 108252,
+          "sha256": "daeffa418177a2f3404150e0c21d5687ef360139433f3ba60b7bdadf3f486412"
+        }
+      ]
+    },
+    {
+      "skin": 2,
+      "source_sha256": "5864401c58143c2273a060992a974f474656b9c3a892d0359622b22668826933",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            36,
+            21,
+            356,
+            611
+          ],
+          "canvas_position": [
+            160,
+            42
+          ],
+          "opaque_pixels": 100665,
+          "sha256": "74df1bbe07ca1e69aad14b3a237302493187afedf050d707b835886ba798eed9"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            441,
+            40,
+            799,
+            609
+          ],
+          "canvas_position": [
+            141,
+            63
+          ],
+          "opaque_pixels": 89353,
+          "sha256": "7f0cc5a3988f05f4d21ec43f89b3605b72d520014a927882ea079b5edc02d0dc"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            832,
+            56,
+            1249,
+            609
+          ],
+          "canvas_position": [
+            116,
+            79
+          ],
+          "opaque_pixels": 93160,
+          "sha256": "1450257289486ba0000de38ad400aa10c9ed1b6d2e48b3ce128e1e533c0fd303"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            19,
+            670,
+            465,
+            1222
+          ],
+          "canvas_position": [
+            125,
+            80
+          ],
+          "opaque_pixels": 98633,
+          "sha256": "4fd2dd66b75cbdd551dcceabfedf4ae425af7bab2b1e81493a9a45919e961b9f"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            447,
+            664,
+            835,
+            1220
+          ],
+          "canvas_position": [
+            127,
+            76
+          ],
+          "opaque_pixels": 90262,
+          "sha256": "a4b0d2a620591de2b220a3dfc1f54006ce42555a34add356670b5f3061a8e32d"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            870,
+            638,
+            1190,
+            1222
+          ],
+          "canvas_position": [
+            160,
+            48
+          ],
+          "opaque_pixels": 100073,
+          "sha256": "0a361e1a307e7cad09f9bc74286518784aeb550a7fa3394d2542e9b30740094a"
+        }
+      ]
+    },
+    {
+      "skin": 3,
+      "source_sha256": "75d5fcf82ef963042216d5cd5f3cd59e16bd34e7903222ea1075da8f935bd798",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            70,
+            5,
+            387,
+            616
+          ],
+          "canvas_position": [
+            153,
+            21
+          ],
+          "opaque_pixels": 107325,
+          "sha256": "318bcb2fd7c69b5692eb8dc6aac11a1792f5204bc1bd4127eba1fbf3880e7d71"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            478,
+            9,
+            794,
+            617
+          ],
+          "canvas_position": [
+            162,
+            24
+          ],
+          "opaque_pixels": 103867,
+          "sha256": "f9265fc4b066083f6904e018d1a338052d669c2accc192696fdc71e1ecebae32"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            829,
+            10,
+            1240,
+            616
+          ],
+          "canvas_position": [
+            81,
+            26
+          ],
+          "opaque_pixels": 112761,
+          "sha256": "42d6dd5d55fb4c1960584f53ecc45c90341854818916b0610033981711fec27d"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            29,
+            636,
+            453,
+            1243
+          ],
+          "canvas_position": [
+            110,
+            25
+          ],
+          "opaque_pixels": 117156,
+          "sha256": "840d6198c60cea7a827073ff2b44a9b5f4bfdc5d5288f9fae400ebb74078ab92"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            482,
+            636,
+            822,
+            1243
+          ],
+          "canvas_position": [
+            150,
+            25
+          ],
+          "opaque_pixels": 106905,
+          "sha256": "506e8240fd2bb050348e37ffde33c6c8781ee4e6c0bdbac01955e464e96bc2fe"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            880,
+            630,
+            1196,
+            1243
+          ],
+          "canvas_position": [
+            153,
+            19
+          ],
+          "opaque_pixels": 107403,
+          "sha256": "2062fd70fdfab0d89a7f3c75a1d3661eb79e43d561b9ce2e43dada5f11ad7444"
+        }
+      ]
+    },
+    {
+      "skin": 4,
+      "source_sha256": "881b8df943eb034450fb5d016f46047777f80c8deeabf4b531ea51489206ee4b",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            44,
+            23,
+            383,
+            598
+          ],
+          "canvas_position": [
+            142,
+            57
+          ],
+          "opaque_pixels": 108064,
+          "sha256": "eb499a84e1b56b2aced2d9cc0ca80d2537dcf67191c15899da5d67c05501941f"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            456,
+            40,
+            815,
+            598
+          ],
+          "canvas_position": [
+            140,
+            74
+          ],
+          "opaque_pixels": 95510,
+          "sha256": "7042df643f520bc8751c9b1471d266d6fb9a100605bb747b9c70dae636b891d5"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            827,
+            46,
+            1241,
+            599
+          ],
+          "canvas_position": [
+            95,
+            79
+          ],
+          "opaque_pixels": 101289,
+          "sha256": "6e70f78fda695ecd41ef96b70c46a744e795212f02d87566146f88e4507a8326"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            32,
+            672,
+            461,
+            1228
+          ],
+          "canvas_position": [
+            111,
+            76
+          ],
+          "opaque_pixels": 107007,
+          "sha256": "6732af105d66ad8d440c91936b632a8ee8ef98ca18409fbb8dcf7420de58a701"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            468,
+            670,
+            832,
+            1229
+          ],
+          "canvas_position": [
+            138,
+            73
+          ],
+          "opaque_pixels": 97944,
+          "sha256": "485cdac92bd065f1846d03434c0f351de1e3fae67f3a8bcc9557734895844d99"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            885,
+            651,
+            1229,
+            1228
+          ],
+          "canvas_position": [
+            143,
+            55
+          ],
+          "opaque_pixels": 109547,
+          "sha256": "49081f35359bf1379bda8e842bd0fce6b015a3c2dc0850da3a622f2690213c18"
+        }
+      ]
+    },
+    {
+      "skin": 5,
+      "source_sha256": "3beb8c2ce8d451228018a1177424fa439e1c367c9a1bf778c8ed183397b0b4c8",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            35,
+            8,
+            413,
+            613
+          ],
+          "canvas_position": [
+            147,
+            27
+          ],
+          "opaque_pixels": 122416,
+          "sha256": "7149ab08cdd2fc751cbfe423d26592faccabf5b70d8db8339e1f1ab743b11518"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            427,
+            46,
+            830,
+            613
+          ],
+          "canvas_position": [
+            119,
+            65
+          ],
+          "opaque_pixels": 122075,
+          "sha256": "269cc0e4ddbc74f06532eb260b06d4f24f73c1483772522ad17b5e8bdcbab213"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            820,
+            31,
+            1247,
+            613
+          ],
+          "canvas_position": [
+            96,
+            50
+          ],
+          "opaque_pixels": 132647,
+          "sha256": "d05c5e14b2db26bc3f07c989e4de3cc563af518c14de5f4061b109db47a495c4"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            18,
+            647,
+            454,
+            1226
+          ],
+          "canvas_position": [
+            100,
+            53
+          ],
+          "opaque_pixels": 134641,
+          "sha256": "7494a0dbab21428c8b61924d1509f661129f92e4ffa1a7578b7eb725fab3a2da"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            461,
+            645,
+            877,
+            1226
+          ],
+          "canvas_position": [
+            125,
+            51
+          ],
+          "opaque_pixels": 122553,
+          "sha256": "c8f88e7684cd3529ecdd5f475b80a586a39fc83e9b01c59b05114341ea6e7382"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            891,
+            633,
+            1251,
+            1230
+          ],
+          "canvas_position": [
+            146,
+            35
+          ],
+          "opaque_pixels": 118890,
+          "sha256": "9a8dc15534a3fb0dc926140ea4ac341ef252edc0318e0d2711e72f7cf2dc1330"
+        }
+      ]
+    },
+    {
+      "skin": 6,
+      "source_sha256": "38f0f0ed99405a5f33db27acb3662d04a77cd6c478b90e4d5b20fc1330a866ed",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            54,
+            3,
+            382,
+            610
+          ],
+          "canvas_position": [
+            124,
+            25
+          ],
+          "opaque_pixels": 116161,
+          "sha256": "84c592f9e7b3b9f46eb9f46dc811eb96fcc4c8e493ff7e0a3d8593692cd0d3a4"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            461,
+            22,
+            822,
+            610
+          ],
+          "canvas_position": [
+            140,
+            44
+          ],
+          "opaque_pixels": 112598,
+          "sha256": "746cf3edc4fd158fe7278227d2e22f8547a85d8fc5734e6f76c9b781da993dff"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            870,
+            5,
+            1230,
+            610
+          ],
+          "canvas_position": [
+            134,
+            27
+          ],
+          "opaque_pixels": 116162,
+          "sha256": "5c94992c514a2eee6a8a9202244c0cfb82e3a6b97e347399aef14799220f08f2"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            34,
+            635,
+            429,
+            1234
+          ],
+          "canvas_position": [
+            117,
+            33
+          ],
+          "opaque_pixels": 124976,
+          "sha256": "98daaafa49caf030c0fac0c01c195bf1b9887a26f1c09bdfb31e2130a8673ded"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            479,
+            641,
+            852,
+            1235
+          ],
+          "canvas_position": [
+            125,
+            38
+          ],
+          "opaque_pixels": 118154,
+          "sha256": "bf333005d5724b7f959ba0cfa6feb67d134fc1683d71e03b4a8d2c8f4a7309d0"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            898,
+            629,
+            1226,
+            1235
+          ],
+          "canvas_position": [
+            125,
+            26
+          ],
+          "opaque_pixels": 116580,
+          "sha256": "8d69cb2a1aa2b80b993cc85b990436e771c9c53c501bc5493f6459f4f193ad30"
+        }
+      ]
+    },
+    {
+      "skin": 7,
+      "source_sha256": "522cbc904cde33d611809ac105ed09065df749f1f3f0c297c04453af546bb1cb",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            36,
+            11,
+            423,
+            595
+          ],
+          "canvas_position": [
+            147,
+            48
+          ],
+          "opaque_pixels": 113791,
+          "sha256": "224139789d557026df41f168cb7df3292017e730f14d0626553f5df4812fa754"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            424,
+            25,
+            837,
+            590
+          ],
+          "canvas_position": [
+            117,
+            67
+          ],
+          "opaque_pixels": 106281,
+          "sha256": "657682b187c74665f3c0a737e690a6fe870d91bb2d453646021f328f5af22930"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            831,
+            26,
+            1254,
+            593
+          ],
+          "canvas_position": [
+            109,
+            65
+          ],
+          "opaque_pixels": 113389,
+          "sha256": "c58da4d8669342ee77987c61d65c7ac5d4217e120d32d5ec61c9963e75692fe1"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            5,
+            644,
+            415,
+            1222
+          ],
+          "canvas_position": [
+            117,
+            54
+          ],
+          "opaque_pixels": 111220,
+          "sha256": "8abf3bb2044e92bcb2728c88c60e5b2de846c6796d9edd64c60e862c57d0cfa4"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            425,
+            649,
+            875,
+            1221
+          ],
+          "canvas_position": [
+            103,
+            60
+          ],
+          "opaque_pixels": 110372,
+          "sha256": "f41cb1585fad2de31d575e5d218b6a430784e3c09cfadf8abb9dbc93c3aeaacf"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            877,
+            639,
+            1254,
+            1228
+          ],
+          "canvas_position": [
+            140,
+            43
+          ],
+          "opaque_pixels": 116002,
+          "sha256": "96fc10659044111cb05ec7751469b596a56727c4ecbd7eeb33f40f1f3a640d96"
+        }
+      ]
+    },
+    {
+      "skin": 8,
+      "source_sha256": "48a5958e041557a697e23efcf6ede5c0080101ac8a2f6fe5a3e3b8bac200f08d",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            65,
+            0,
+            387,
+            620
+          ],
+          "canvas_position": [
+            159,
+            12
+          ],
+          "opaque_pixels": 107456,
+          "sha256": "c04ee15b737b23547eff7e7a0e77b12a5892af29f9370439e6f055d7885109a6"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            439,
+            26,
+            823,
+            617
+          ],
+          "canvas_position": [
+            129,
+            41
+          ],
+          "opaque_pixels": 103625,
+          "sha256": "1678cb3192f5424fce90e7f5a1ac83ce4b3124a5106801b7dccee5fee2e0bd80"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            841,
+            20,
+            1233,
+            617
+          ],
+          "canvas_position": [
+            125,
+            35
+          ],
+          "opaque_pixels": 111155,
+          "sha256": "6d71e20d835ff831f836dc5691c51c8b4743c5a0283b29e6699cb92f2c5cf8c4"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            23,
+            630,
+            442,
+            1235
+          ],
+          "canvas_position": [
+            119,
+            27
+          ],
+          "opaque_pixels": 115629,
+          "sha256": "dd6f6cfb344ca77db555a32b61bf9997f582811fea527d13a71617c12495990b"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            446,
+            631,
+            820,
+            1232
+          ],
+          "canvas_position": [
+            134,
+            31
+          ],
+          "opaque_pixels": 103733,
+          "sha256": "4904d376825a3518bec1427867e904f0d8c9cb86f9eaf55adeed6ccf80a370be"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            873,
+            627,
+            1208,
+            1235
+          ],
+          "canvas_position": [
+            153,
+            24
+          ],
+          "opaque_pixels": 108354,
+          "sha256": "8c72ceaf0d1a54962f496c648da01673193d96c2c7369cf014f34ecfd5fd4181"
+        }
+      ]
+    },
+    {
+      "skin": 9,
+      "source_sha256": "04e52ec20df0cbcf6087fb46d6f915738b13269f66aeb56f465144f3da2a12ab",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            52,
+            4,
+            384,
+            620
+          ],
+          "canvas_position": [
+            148,
+            16
+          ],
+          "opaque_pixels": 114073,
+          "sha256": "3d4ba665f50390a7a9b9dd3b937df577a86833b00fad71bd784b0e032cfa138c"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            434,
+            8,
+            813,
+            620
+          ],
+          "canvas_position": [
+            121,
+            20
+          ],
+          "opaque_pixels": 123382,
+          "sha256": "676a4235132f4a67318a548d3afbed7af4ea0fadf507e574a1ff93f925a03052"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            856,
+            8,
+            1239,
+            620
+          ],
+          "canvas_position": [
+            122,
+            20
+          ],
+          "opaque_pixels": 125208,
+          "sha256": "cf1355323f600dd52f7e367b2ca156d302bee4bc99d1a2ff083a408a0fce5023"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            9,
+            630,
+            442,
+            1239
+          ],
+          "canvas_position": [
+            93,
+            23
+          ],
+          "opaque_pixels": 130248,
+          "sha256": "56ba9916393792b16688b481423cc01365d2a1ba085090ea9312325838b1529a"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            447,
+            629,
+            819,
+            1239
+          ],
+          "canvas_position": [
+            126,
+            22
+          ],
+          "opaque_pixels": 120821,
+          "sha256": "997a524d4158079a0cb7fd8544d629db70bdf100da2cc285abfda5e4e8c45c59"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            868,
+            631,
+            1218,
+            1242
+          ],
+          "canvas_position": [
+            136,
+            21
+          ],
+          "opaque_pixels": 117896,
+          "sha256": "4ad645f4496719e6a27649be286cacade6b47500786f5b87c477dc1bcde24513"
+        }
+      ]
+    },
+    {
+      "skin": 10,
+      "source_sha256": "d13d87f9c8c2b779f36da902752d1d9e468f8ce811c5fb1ebe48e6ea6caaebb1",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            76,
+            15,
+            398,
+            613
+          ],
+          "canvas_position": [
+            136,
+            34
+          ],
+          "opaque_pixels": 106783,
+          "sha256": "82fb4e8f97d457eee7cafbcea918321090c441db6d23fb743203f38280903daf"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            447,
+            20,
+            816,
+            614
+          ],
+          "canvas_position": [
+            127,
+            38
+          ],
+          "opaque_pixels": 107949,
+          "sha256": "c7ea27a4df7c43e0d19ca189612835acf502c3d0aff4346adad6eb6ce5c71909"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            812,
+            27,
+            1238,
+            615
+          ],
+          "canvas_position": [
+            68,
+            44
+          ],
+          "opaque_pixels": 115721,
+          "sha256": "efd7fcdd5adf76ef2f94efbb3cbe2e99d85ac3a58603884294341473bf9c0099"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            19,
+            634,
+            433,
+            1229
+          ],
+          "canvas_position": [
+            102,
+            37
+          ],
+          "opaque_pixels": 116889,
+          "sha256": "46488bc7be4c3896f3bb8231068bffe3b6c5109f1730e04195ecb1ca7ac0f7c9"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            461,
+            626,
+            830,
+            1223
+          ],
+          "canvas_position": [
+            113,
+            35
+          ],
+          "opaque_pixels": 108063,
+          "sha256": "5bc70eba9aee9f99bd606b8686373c8b377b1a554ce689e26416d0a80e701715"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            879,
+            626,
+            1207,
+            1229
+          ],
+          "canvas_position": [
+            135,
+            29
+          ],
+          "opaque_pixels": 108759,
+          "sha256": "82c74829213c61a17cb554aa51274c1ffd97d7c4c22cf2cdad1f71e4d082f573"
+        }
+      ]
+    },
+    {
+      "skin": 11,
+      "source_sha256": "9c66673d42ccdd77e537d911cb3e0a97218037ed71412108cecaa23cc2a1fec3",
+      "frames": [
+        {
+          "frame": 1,
+          "source_bounds": [
+            59,
+            6,
+            372,
+            617
+          ],
+          "canvas_position": [
+            177,
+            21
+          ],
+          "opaque_pixels": 109810,
+          "sha256": "641da2386cb39455ba7afdc2f1609b157cfecb7755fc442bbd98faf4fe02efb2"
+        },
+        {
+          "frame": 2,
+          "source_bounds": [
+            464,
+            22,
+            821,
+            612
+          ],
+          "canvas_position": [
+            142,
+            42
+          ],
+          "opaque_pixels": 109918,
+          "sha256": "e587cb44a27125dcb665df13547277ec3ae481e98148e1844dcb98124838ba5a"
+        },
+        {
+          "frame": 3,
+          "source_bounds": [
+            845,
+            15,
+            1237,
+            615
+          ],
+          "canvas_position": [
+            117,
+            32
+          ],
+          "opaque_pixels": 113598,
+          "sha256": "ac49019a36ab609789767aa9e5f2e05a20038f1fe0793e5696c4aa5736786dce"
+        },
+        {
+          "frame": 4,
+          "source_bounds": [
+            20,
+            637,
+            440,
+            1227
+          ],
+          "canvas_position": [
+            118,
+            42
+          ],
+          "opaque_pixels": 117429,
+          "sha256": "eea42ef4d4cf04e49e8d2c0ed59af604ef6c9c2adf62a246b6379461080db580"
+        },
+        {
+          "frame": 5,
+          "source_bounds": [
+            459,
+            636,
+            836,
+            1226
+          ],
+          "canvas_position": [
+            124,
+            42
+          ],
+          "opaque_pixels": 115625,
+          "sha256": "3808f5b85780bb56c6bd656438192043eecba2d69e21dcd2b876f0b0e99024fe"
+        },
+        {
+          "frame": 6,
+          "source_bounds": [
+            896,
+            631,
+            1211,
+            1237
+          ],
+          "canvas_position": [
+            176,
+            26
+          ],
+          "opaque_pixels": 109573,
+          "sha256": "994592db2d430ffc1cfd8a4e31ffb9ec1cc3b1f890fde756f4402f908e1dc087"
+        }
+      ]
+    }
+  ]
+}

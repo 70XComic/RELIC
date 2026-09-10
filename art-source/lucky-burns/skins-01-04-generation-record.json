@@ -1,0 +1,97 @@
+{
+  "mode": "built-in image_gen",
+  "records": [
+    {
+      "skin": "01",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-fd02581e-7dfb-40fb-8014-1c0572ccc39c.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-01-sheet.png",
+      "prompt": "Use case: identity-preserve.\nAsset type: production pixel-art RPG attack sprite sheet.\nInput image 1 is the sole exact character identity, costume, palette and rendering reference, NOT a background reference.\nCreate ONE square 2048x2048 PNG sheet with a true transparent alpha background. Exactly SIX full-body sprites, equally spaced in THREE equal columns and TWO equal rows, read left-to-right then top-to-bottom. No cell borders, no grid, no text, no labels, no numbers, no backdrop, no shadow plane, no checkerboard pixels. Each invisible cell is 682x1024 approximately. Keep each sprite entirely within its own cell, with generous empty space around all hair and limbs. Feet lie on the same baseline in each row, pelvis horizontal anchor remains at each cell center. Match body scale across all six frames; fully show hair and all boots/feet. \nSubject: Lucky Burns, an adult fictional muscular female RPG fighter. Preserve EXACTLY the supplied reference's adult face, blue eyes, long flowing golden blonde hair, powerful large muscles, body proportions, skin tone, costume, colors, every accessory and footwear. Preserve reference costume coverage without changing clothing. No new clothing, no invented accessories, no weapons.\nStyle: meticulous, crisp, high-detail pixel-art game illustration matching input reference, strong pixel-defined contour and densely shaded muscles and materials. Maintain one stable character model, facial identity and outfit across every frame.\nSix chronological attack frames: (1) ready stance resembling reference, one hand raised and one lowered, oriented three-quarter toward screen right; (2) clear anticipation, both fists come to combat guard with weight pulled back; (3) decisive forward straight punch toward screen right with one arm strongly extended, torso rotates; (4) punch follow-through with weight forward and flowing hair responding naturally; (5) recovery retracting fist to guard; (6) return to exactly frame 1's stance for a seamless loop. Athletic nonsexual combat action. No opponents, no contact, no blood. No flashing effects or motion trails that obscure anatomy. Never duplicate a pose in intermediate frames.\nSpecific outfit invariants: black leather red-lined jacket draped around arms, black buckled combat two-piece with red crown emblems, black gloves, gold square buckles, black thigh straps, red hip sash with white crown, heavy black platform lace-up boots with red laces and buckles.",
+      "correctionPrompt": null,
+      "status": "FAILED_ALPHA_RGB_BAKED_CHECKERBOARD",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "hasAlpha": false,
+      "grid": [
+        3,
+        2
+      ],
+      "concerns": [
+        "Background checkerboard is baked into RGB pixels; not usable as a transparent animation sheet.",
+        "Frame 4 extends a little beyond its equal cell's right boundary.",
+        "Dimensions returned by tool are 1254 x 1254 despite 2048 x 2048 requested."
+      ]
+    },
+    {
+      "skin": "02",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-cdc6d794-ae51-4e14-b012-5a5503bffdb2.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-02-sheet.png",
+      "prompt": "Use case: identity-preserve.\nAsset type: production pixel-art RPG attack sprite sheet.\nInput image 1 is the sole exact character identity, costume, palette and rendering reference, NOT a background reference.\nCreate ONE square 2048x2048 PNG sheet with a true transparent alpha background. Exactly SIX full-body sprites, equally spaced in THREE equal columns and TWO equal rows, read left-to-right then top-to-bottom. No cell borders, no grid, no text, no labels, no numbers, no backdrop, no shadow plane, no checkerboard pixels. Each invisible cell is 682x1024 approximately. Keep each sprite entirely within its own cell, with generous empty space around all hair and limbs. Feet lie on the same baseline in each row, pelvis horizontal anchor remains at each cell center. Match body scale across all six frames; fully show hair and all boots/feet. \nSubject: Lucky Burns, an adult fictional muscular female RPG fighter. Preserve EXACTLY the supplied reference's adult face, blue eyes, long flowing golden blonde hair, powerful large muscles, body proportions, skin tone, costume, colors, every accessory and footwear. Preserve reference costume coverage without changing clothing. No new clothing, no invented accessories, no weapons.\nStyle: meticulous, crisp, high-detail pixel-art game illustration matching input reference, strong pixel-defined contour and densely shaded muscles and materials. Maintain one stable character model, facial identity and outfit across every frame.\nSix chronological attack frames: (1) ready stance resembling reference, one hand raised and one lowered, oriented three-quarter toward screen right; (2) clear anticipation, both fists come to combat guard with weight pulled back; (3) decisive forward straight punch toward screen right with one arm strongly extended, torso rotates; (4) punch follow-through with weight forward and flowing hair responding naturally; (5) recovery retracting fist to guard; (6) return to exactly frame 1's stance for a seamless loop. Athletic nonsexual combat action. No opponents, no contact, no blood. No flashing effects or motion trails that obscure anatomy. Never duplicate a pose in intermediate frames.\nSpecific outfit invariants: black and red combat two-piece with red crown emblems, gold ring and buckle hardware at shoulders and hips, black fingerless gloves and wrist cuffs, single black buckled thigh strap, black platform combat boots with red laces. No jacket, no cape, no sash. Preserve this lighter reference outfit exactly.",
+      "correctionPrompt": null,
+      "status": "FAILED_ALPHA_RGB_BAKED_CHECKERBOARD",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "hasAlpha": false,
+      "grid": [
+        3,
+        2
+      ],
+      "concerns": [
+        "Background checkerboard is baked into RGB pixels; not usable as a transparent animation sheet.",
+        "Frame 4 extends a little beyond its equal cell's right boundary.",
+        "Dimensions returned by tool are 1254 x 1254 despite 2048 x 2048 requested."
+      ]
+    },
+    {
+      "skin": "03",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-d10c11e1-5b25-46ec-abb7-f16a82c84a40.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-03-sheet.png",
+      "prompt": "Use case: identity-preserve.\nAsset type: production pixel-art RPG attack sprite sheet.\nInput image 1 is the sole exact character identity, costume, palette and rendering reference, NOT a background reference.\nCreate ONE square 2048x2048 PNG sheet with a true transparent alpha background. Exactly SIX full-body sprites, equally spaced in THREE equal columns and TWO equal rows, read left-to-right then top-to-bottom. No cell borders, no grid, no text, no labels, no numbers, no backdrop, no shadow plane, no checkerboard pixels. Each invisible cell is 682x1024 approximately. Keep each sprite entirely within its own cell, with generous empty space around all hair and limbs. Feet lie on the same baseline in each row, pelvis horizontal anchor remains at each cell center. Match body scale across all six frames; fully show hair and all boots/feet. \nSubject: Lucky Burns, an adult fictional muscular female RPG fighter. Preserve EXACTLY the supplied reference's adult face, blue eyes, long flowing golden blonde hair, powerful large muscles, body proportions, skin tone, costume, colors, every accessory and footwear. Preserve reference costume coverage without changing clothing. No new clothing, no invented accessories, no weapons.\nStyle: meticulous, crisp, high-detail pixel-art game illustration matching input reference, strong pixel-defined contour and densely shaded muscles and materials. Maintain one stable character model, facial identity and outfit across every frame.\nSix chronological attack frames: (1) ready stance resembling reference, one hand raised and one lowered, oriented three-quarter toward screen right; (2) clear anticipation, both fists come to combat guard with weight pulled back; (3) decisive forward straight punch toward screen right with one arm strongly extended, torso rotates; (4) punch follow-through with weight forward and flowing hair responding naturally; (5) recovery retracting fist to guard; (6) return to exactly frame 1's stance for a seamless loop. Athletic nonsexual combat action. No opponents, no contact, no blood. No flashing effects or motion trails that obscure anatomy. Never duplicate a pose in intermediate frames.\nSpecific outfit invariants: red and white hibiscus-pattern two-piece, black ties with black-and-gold tassel ends, red hibiscus flower in golden blonde hair, gold hoop earrings, gold crown pendant necklace, gold wrist and ankle jewelry, black platform open-toe sandals with red straps and hibiscus ornaments. No boots, no armor, no cape. Preserve patterned beach costume exactly in all six combat poses.",
+      "correctionPrompt": null,
+      "status": "FAILED_ALPHA_RGB_BAKED_CHECKERBOARD",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "hasAlpha": false,
+      "grid": [
+        3,
+        2
+      ],
+      "concerns": [
+        "Background checkerboard is baked into RGB pixels; not usable as a transparent animation sheet.",
+        "Frame 4 extends a little beyond its equal cell's right boundary.",
+        "Dimensions returned by tool are 1254 x 1254 despite 2048 x 2048 requested."
+      ]
+    },
+    {
+      "skin": "04",
+      "source": "/workspace/scratch/32909283a42e/generated_images/exec-74c8e5ad-c884-46e8-be4a-218a49bcf484.png",
+      "destination": "/workspace/scratch/32909283a42e/lucky-motion/skin-04-sheet.png",
+      "prompt": "Use case: identity-preserve.\nAsset type: production pixel-art RPG attack sprite sheet.\nInput image 1 is the sole exact character identity, costume, palette and rendering reference, NOT a background reference.\nCreate ONE square 2048x2048 PNG sheet with a true transparent alpha background. Exactly SIX full-body sprites, equally spaced in THREE equal columns and TWO equal rows, read left-to-right then top-to-bottom. No cell borders, no grid, no text, no labels, no numbers, no backdrop, no shadow plane, no checkerboard pixels. Each invisible cell is 682x1024 approximately. Keep each sprite entirely within its own cell, with generous empty space around all hair and limbs. Feet lie on the same baseline in each row, pelvis horizontal anchor remains at each cell center. Match body scale across all six frames; fully show hair and all boots/feet. \nSubject: Lucky Burns, an adult fictional muscular female RPG fighter. Preserve EXACTLY the supplied reference's adult face, blue eyes, long flowing golden blonde hair, powerful large muscles, body proportions, skin tone, costume, colors, every accessory and footwear. Preserve reference costume coverage without changing clothing. No new clothing, no invented accessories, no weapons.\nStyle: meticulous, crisp, high-detail pixel-art game illustration matching input reference, strong pixel-defined contour and densely shaded muscles and materials. Maintain one stable character model, facial identity and outfit across every frame.\nSix chronological attack frames: (1) ready stance resembling reference, one hand raised and one lowered, oriented three-quarter toward screen right; (2) clear anticipation, both fists come to combat guard with weight pulled back; (3) decisive forward straight punch toward screen right with one arm strongly extended, torso rotates; (4) punch follow-through with weight forward and flowing hair responding naturally; (5) recovery retracting fist to guard; (6) return to exactly frame 1's stance for a seamless loop. Athletic nonsexual combat action. No opponents, no contact, no blood. No flashing effects or motion trails that obscure anatomy. Never duplicate a pose in intermediate frames.\nSpecific outfit invariants: black-and-red gold-edged armored two-piece, left-side single shoulder pauldron with gold crown, red cape behind shoulder, black gauntlets with crown crests, belt with large gold crown buckle and gold chains, red hip sash with gold trim and large gold crown, black straps, black armored platform boots with gold-edged knee/shin crown plates and red laces. Keep asymmetrical armor and cape exactly.",
+      "correctionPrompt": null,
+      "status": "FAILED_ALPHA_RGB_BAKED_CHECKERBOARD",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "hasAlpha": false,
+      "grid": [
+        3,
+        2
+      ],
+      "concerns": [
+        "Background checkerboard is baked into RGB pixels; not usable as a transparent animation sheet.",
+        "Frame 4 extends a little beyond its equal cell's right boundary.",
+        "Dimensions returned by tool are 1254 x 1254 despite 2048 x 2048 requested."
+      ]
+    }
+  ]
+}
