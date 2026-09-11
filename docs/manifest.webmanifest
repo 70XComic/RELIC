@@ -2,10 +2,11 @@
   "name": "レリック・ラッシュ",
   "short_name": "レリック",
   "description": "1プレイ約2分のドットファンタジー編成RPG",
-  "start_url": "/RELIC/",
   "display": "standalone",
   "background_color": "#07111c",
   "theme_color": "#07111c",
+  "start_url": "/RELIC/",
+  "scope": "/RELIC/",
   "icons": [
     {
       "src": "/RELIC/favicon.svg",
@@ -13,6 +14,5 @@
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
-  ],
-  "scope": "/RELIC/"
+  ]
 }
